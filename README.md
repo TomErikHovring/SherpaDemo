@@ -1,2 +1,0 @@
-# SherpaDemo
-Created with CodeSandbox
